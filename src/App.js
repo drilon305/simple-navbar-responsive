@@ -1,7 +1,7 @@
 import React from 'react';
-import './components/index.css'
+import './index.css'
 import styled from 'styled-components'
-import Navbar from './components/Navbar';
+import Navbar from './Navbar';
 
 
 const App = () => {
